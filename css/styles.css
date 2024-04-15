@@ -1,0 +1,145 @@
+/* Common */
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.accent-color {
+    color: #4D5AE5;
+}
+
+button {
+    cursor: pointer;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-align: center;
+}
+
+/* Header styles */
+
+.page-logo {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
+
+.menu-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #4D5AE5;
+}
+
+.contact-block {
+    font-style: normal;
+}
+
+.contact-list-link {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+/* Hero */
+
+.main-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+.order-service-btn {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #4D5AE5;
+    color: #ffffff;
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+    background-color: #000080;
+    color: #ffffff;
+}
+
+/* Benefits styles */
+
+.benefits-title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.benefits-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+/* Team styles */
+
+.team-member-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.team-member-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+/* Portfolio styles */
+
+.portfolio-item-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.portfolio-item-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+/* Footer styles */
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
